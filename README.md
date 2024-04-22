@@ -21,6 +21,4 @@ This Python script generates log messages at different levels (INFO, DEBUG, ERRO
 
 - Python 3.x
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
